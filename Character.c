@@ -4,6 +4,7 @@ int main()
 {
     char a,b;
     scanf("%c %c",&a,&b);
-    printf("%.c\n%c\n",a,b);
+    printf("%c\n%c\n",a,b);
     return 0;
+
 }
